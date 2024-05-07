@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Jorge del Campo Andrade
-#### Marketing, content and web development
+#### Senior Web developer
 ![Jorge del Campo](https://avatars.githubusercontent.com/u/28831483?s=400&u=dff215a112c345e37c2e74b000b6266980726249&v=4)
 
 For over 15 years I’ve worked in exciting world of digital technology, including **marketing**, **web development** and **content creation**.
