@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jorge del Campo Andrade
 #### Marketing, content and web development
-![Marketing, content and web development](https://media.licdn.com/dms/image/C4E03AQG3ffwMPK_JfA/profile-displayphoto-shrink_800_800/0/1660739284745?e=1720656000&v=beta&t=3bkWFjpQ7CzTTUnHVCUwNuSdypELnzzxybSzrQQePBI)
+![Jorge del Campo](https://avatars.githubusercontent.com/u/28831483?s=400&u=dff215a112c345e37c2e74b000b6266980726249&v=4)
 
 For over 15 years I’ve worked in exciting world of digital technology, including **marketing**, **web development** and **content creation**.
 
